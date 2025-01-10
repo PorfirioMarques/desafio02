@@ -1,12 +1,12 @@
-body {display: grid; max-width:1440px; gap: 60px;}
+body {display: grid; max-width:1440px; gap: 60px; background-color: hsl(30, 38%, 92%);}
 
 
 .conteudo{ display: grid; grid-template-columns: 1fr 1fr
-; justify-content: left;}
+; justify-content: left; ;}
 
 img{ display: block;max-width: 100%;}
 .foto { width: 20rem;margin-left: 15rem; justify-self: center;}
-.inf { display: inline-block;}
+.inf { display: inline-block;background-color: white}
 
 
 
