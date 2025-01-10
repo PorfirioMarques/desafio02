@@ -2,12 +2,14 @@ body {display: grid; max-width:1440px; gap: 60px; background-color: hsl(30, 38%,
 
 
 .conteudo{ display: grid; grid-template-columns: 1fr 1fr
-; justify-content: left; ;}
+; justify-content: left; padding: 5rem;}
 
 img{ display: block;max-width: 100%;}
-.foto { width: 20rem;margin-left: 15rem; justify-self: center;}
-.inf { display: inline-block;background-color: white}
-
+.foto { width: 22rem;margin-left: 18rem;border-radius:10px ; justify-self: center;}
+.inf { display: inline-block;background-color: white; padding: 2rem; ;padding-right: 0rem;align-items: center; width: 20rem;border-radius: 10px;} 
+p{ font-size: 14px; line-height: 3rem;}
+.botao { display:grid; text-decoration: none; background-color: hsl(158, 36%, 37%);color:hsl(30, 38%, 92%); text-align: center; justify-self: center; padding: 0.5rem 7rem;  border-radius: 10px; background-image:url(/images/icon-cart.svg); background-repeat: no-repeat; } 
+.link { display: inline-block;}
 
 
 
