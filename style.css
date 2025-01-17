@@ -1,5 +1,5 @@
 @font-face{ font-family: Montserrat;
-  src: url(/FONTES/Montserrat/Montserrat-VariableFont_wght.ttf); font-family: showcase; src: url(/FONTES/Showcase/ShowcaseSansMini.otf); font-family: noyh; src: url(/FONTES/noyh-slim-semi-light_freefontdownload_org/noyh-slim-semi-light.ttf);}
+  src: url(./FONTES/Montserrat/Montserrat-VariableFont_wght.ttf); font-family: showcase; src: url(./FONTES/Showcase/ShowcaseSansMini.otf); font-family: noyh; src: url(./FONTES/noyh-slim-semi-light_freefontdownload_org/noyh-slim-semi-light.ttf);}
 
 
 body {display: grid; max-width:100%; gap: 20px; background-color: hsl(30, 38%, 92%);width: 100%; height: 100%;}
