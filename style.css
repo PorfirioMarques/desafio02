@@ -29,7 +29,7 @@ s{padding-top: 0.75rem; color: #C6C6C6;}
 .icone { width: 1rem; display: inline-block;}
 .titulo2{letter-spacing: 9px;}
 @media (max-width:1440px) and (min-width:375px) {.conteudo { max-height: 100%; display: grid; ; grid-template-columns: 1fr;}
-.foto{justify-self: left; border-top-right-radius: 10px ; border-top-left-radius: 10px;  width: 25rem; height: 20rem}.conteudo { padding: 0rem; margin-top: 2rem;margin-left: -10rem; margin-right: -10rem; margin-bottom: 10rem;} footer{ display: none;} .inf{ border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;} body{ gap: 60px;}}
+.foto{justify-self: left; border-top-right-radius: 10px ; border-top-left-radius: 10px;  width: 25rem; height: 25rem}.conteudo {height: 832px; padding: 0rem; margin-top: 0rem;; margin-bottom: 10rem;}.conteudo h1{ font-size: 2rem;} .conteudo p { font-size: 1.75rem;} footer{ display: none;} .inf{ margin-top: 0rem; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;} body{ gap: 60px; }}
 
 
 
